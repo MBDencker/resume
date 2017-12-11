@@ -116,3 +116,20 @@ _Languages_
 
 * Fluency in German and English. Basic knowledge of French.
 
+_Countries of residence_
+
+* Germany (Berlin) 25 years and counting.
+
+* England (Leeds / Leicester) 9 years.
+
+* India (Bangalore / Kodaikanal) 3 years.
+
+* Canada (Toronto) 4 years.
+
+* Germany - again (Plön) 2 years.
+
+* Sri Lanka (Colombo) 4 years.
+
+* Norway (Bergen) 3 years.
+
+* Finland (Turku) 3 years.
