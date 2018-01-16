@@ -5,7 +5,7 @@ Mark Dencker
 <img src="https://raw.githubusercontent.com/MBDencker/resume/master/_MG_0438.jpg" width="150" align="right">
 
 _Czeminskistrasse 1 / 10829 Berlin_  
-_+ 49 30 78714271 / mark.dencker@alice-dsl.net_
+_+ 49 30 78714271 / mark.dencker@gmx.de_
 </div>
 
 <br />
