@@ -133,3 +133,16 @@ _Countries of residence_
 * Norway (Bergen) 3 years.
 
 * Finland (Turku) 3 years.
+
+_A short poem_
+
+Dance
+it moves you as it moves me
+to see you freed
+from the need to
+heed to
+convention
+pretention
+or me.
+
+
