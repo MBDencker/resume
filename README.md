@@ -136,13 +136,13 @@ _Countries of residence_
 
 _A short poem_
 
-Dance
-it moves you as it moves me
-to see you freed
-from the need to
-heed to
-convention
-pretention
+Dance <br />
+it moves you as it moves me<br />
+to see you freed<br />
+from the need to<br />
+heed to<br />
+convention<br />
+pretention<br />
 or me.
 
 
