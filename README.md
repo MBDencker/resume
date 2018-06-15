@@ -58,10 +58,15 @@ MBA, Balanced Scorecard, Financial Management (NPV, DCF, IRR)
 
 Professional Experience
 -----------------------
+### Informanagement DE, (Berlin & Meckenheim, Germany)
+
+_Country Manager, May 2018 - Present_
+
+* Market Entry for "Communication as a Service" supplier to the German accountancy market 
 
 ### Vosdav GmbH, (Berlin, Germany)
 
-_Freelance Project Manager, August 2016 - Present_
+_Freelance Project Manager, August 2016 - April 2018_
 
 * "Infrastructure as a Service" development based on Peer-to-Peer (P2P) networks, Byzantine Fault Tolerance (BFT), Blockchain and Distributed Hash Tables (DHT) for secure cloud services.
 * Generated project product description, project mindmap, SWOT/STEEP analysis.
